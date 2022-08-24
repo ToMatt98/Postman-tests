@@ -1,0 +1,23 @@
+{
+  "name": "qa-academy-api-postman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:newman": "newman run QA-Academy-collection.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToMatt98/QA-Academy-API-Postman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToMatt98/QA-Academy-API-Postman/issues"
+  },
+  "homepage": "https://github.com/ToMatt98/QA-Academy-API-Postman#readme",
+  "devDependencies": {
+    "newman": "^5.3.2",
+    "yarn": "^1.22.19"
+  }
+}
