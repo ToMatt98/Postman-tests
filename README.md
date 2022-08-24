@@ -11,7 +11,7 @@ Make sure that you have runned **qa-academy server** and **qa-academy-client** c
 
 ALSO
 
-Make sure that you have installed node.js, yarn and newman.
+Make sure that you have installed node.js, yarn
 
 ## Steps
 
@@ -24,3 +24,4 @@ Make sure that you have installed node.js, yarn and newman.
 7. Export collection to folder: Postman-tests
 8. Change name to: QA-Academy-collection.json
 9. yarn test:newman
+
