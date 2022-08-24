@@ -24,4 +24,3 @@ Make sure that you have installed node.js, yarn
 7. Export collection to folder: Postman-tests
 8. Change name to: QA-Academy-collection.json
 9. yarn test:newman
-
