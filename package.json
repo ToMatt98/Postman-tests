@@ -1,0 +1,23 @@
+{
+  "name": "postman-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:newman": "newman run QA-Academy-collection.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToMatt98/Postman-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToMatt98/Postman-tests/issues"
+  },
+  "homepage": "https://github.com/ToMatt98/Postman-tests#readme",
+  "devDependencies": {
+    "newman": "^5.3.2",
+    "yarn": "^1.22.19"
+  }
+}
